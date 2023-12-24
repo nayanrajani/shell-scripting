@@ -1,5 +1,15 @@
 # shell-scripting
 
+## Resources
+
+- https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/
+
+- https://www.tutorialspoint.com/unix/shell_scripting.htm
+
+- https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/
+
+- https://www.shellscript.sh/
+
 ## Grafana
 
 - https://sbcode.net/grafana/
