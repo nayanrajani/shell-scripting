@@ -1,5 +1,13 @@
 # shell-scripting
 
+## Grafana
+
+- https://sbcode.net/grafana/
+
+## waht is #!?
+
+- Shebang
+
 ## Initialize the local directory as a Git repository
 
 git init
